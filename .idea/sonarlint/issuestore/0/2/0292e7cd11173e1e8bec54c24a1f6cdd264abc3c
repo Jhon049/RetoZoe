@@ -1,0 +1,15 @@
+
+g	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ôâá¾şÿÿÿÿ8ñ•¾õÀ1
+D
+java:S3010"'Remove this assignment of "driverType".(ëüº8ı•¾õÀ1
+H
+java:S3010",Remove this assignment of "environmentType".(¹œÀK8ş•¾õÀ1
+W	java:S1257"<This block of commented-out lines of code should be removed.(á¢«8Ğ–¾õÀ1
+U
+java:S1128"8Remove this unused import 'enums.EnvironmentType.LOCAL'.(Ş½É8£ô‰’Á1
+V
+java:S1128"9Remove this unused import 'enums.EnvironmentType.REMOTE'.(‡É³8¤ô‰’Á1
+h
+java:S1301#"KReplace this "switch" statement by "if" statements to increase readability.(’µï8â–¾õÀ1
+L
+java:S5411B"*Use the primitive boolean expression here.(¸Õ§®ıÿÿÿÿ8§ô‰’Á1
